@@ -165,11 +165,3 @@ Use this list as a **checklist** for preparation.
 
 > Don’t try to solve everything at once.  
 > Master **patterns**, not problem counts.
-
-If you want:
-- Problem links (LeetCode / GFG)
-- Java-specific implementations
-- Daily array roadmap
-- Pattern-wise cheat sheet  
-
-Tell me 👍
