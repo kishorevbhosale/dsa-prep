@@ -58,7 +58,7 @@ Each problem (where applicable) focuses on:
 ## 📂 Repository Structure
 
 ```text
-DSA/
+DSA-PREP/
 ├── Arrays/
 ├── Strings/
 ├── LinkedList/
