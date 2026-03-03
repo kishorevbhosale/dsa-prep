@@ -164,4 +164,4 @@ Use this list as a **checklist** for preparation.
 ## ⭐ Final Advice
 
 > Don’t try to solve everything at once.  
-> Master **patterns**, not problem counts.
+> Master **patterns**, not problem counts
